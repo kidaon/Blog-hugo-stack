@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://kidaon.github.io/hugo-myblog"
+baseurl = "https://github.com/kidaon/Blog-hugo-stack"
 languageCode = "en-us"
 title = "Heaven"
 

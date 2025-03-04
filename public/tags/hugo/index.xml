@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Hugo on Heaven</title>
+        <link>http://localhost:1313/hugo-myblog/tags/hugo/</link>
+        <description>Recent content in Hugo on Heaven</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 25 Feb 2025 17:22:51 +0800</lastBuildDate><atom:link href="http://localhost:1313/hugo-myblog/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo搭建教程</title>
+        <link>http://localhost:1313/hugo-myblog/p/hugo%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</link>
+        <pubDate>Tue, 25 Feb 2025 17:22:51 +0800</pubDate>
+        
+        <guid>http://localhost:1313/hugo-myblog/p/hugo%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</guid>
+        <description>&lt;img src="http://localhost:1313/hugo-myblog/p/hugo%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/cover.jpg" alt="Featured image of post Hugo搭建教程" /&gt;&lt;h2 id=&#34;前言为什么选择hugo&#34;&gt;前言：为什么选择Hugo？
+&lt;/h2&gt;&lt;p&gt;Hugo是由Go语言编写的静态网站生成器，凭借以下三大核心优势成为技术博客作者的首选工具：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ &lt;strong&gt;闪电般的编译速度&lt;/strong&gt;&lt;br&gt;
+1秒生成数千页面，告别传统生成器的漫长等待&lt;/li&gt;
+&lt;li&gt;🎨 &lt;strong&gt;丰富的主题生态&lt;/strong&gt;&lt;br&gt;
+3000+免费主题一键安装，支持高度自定义&lt;/li&gt;
+&lt;li&gt;✍️ &lt;strong&gt;极简的Markdown写作体验&lt;/strong&gt;&lt;br&gt;
+纯文本创作，搭配LiveReload实时预览&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;无需数据库、无需后端，仅需一个可执行文件即可开启创作之旅，让内容创作者真正实现「专注写作，极致高效」。&lt;/p&gt;
+&lt;h2 id=&#34;安装hugo&#34;&gt;安装hugo
+&lt;/h2&gt;&lt;p&gt;首先打开&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;hugo官网&lt;/a&gt;，点开左上角标签栏的github，然后点tags看历史版本&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;或者也可以直接打开网址 (&lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/tags&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/gohugoio/hugo/tags&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;选择你想要下载的版本，这里拿Windows示范，&lt;em&gt;如果是Linux用户则选择对应架构的 .tar.gz 文件&lt;/em&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/hugo-myblog/p/hugo%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/hugo%E5%AE%89%E8%A3%85.png&#34; width=&#34;800&#34;&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;解压后就安装成功了，在这个界面下打开cmd，然后敲入命令&lt;code&gt;hugo new site your_site_name&lt;/code&gt;就可以搭建你的第一个网站了，可以看到目录下多了一个文件夹&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/hugo-myblog/p/hugo%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/%E8%A7%A3%E5%8E%8B%E5%90%8E.png&#34; width=&#34;800&#34;&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;最后再配置一下环境变量：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Win+S搜索「编辑系统环境变量」&lt;/li&gt;
+&lt;li&gt;点击「环境变量」→ 双击「Path」&lt;/li&gt;
+&lt;li&gt;添加新路径：C:\Hugo\bin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这个时候点进你刚刚新创建的文件夹，并打开cmd，输入&lt;code&gt;hugo server -D&lt;/code&gt;即可运行，并在本地调试你的网页&lt;/p&gt;
+&lt;h2 id=&#34;选择主题&#34;&gt;选择主题
+&lt;/h2&gt;&lt;p&gt;可以在(&lt;a class=&#34;link&#34; href=&#34;https://themes.gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://themes.gohugo.io/&lt;/a&gt;)中挑选你心仪的主题&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
